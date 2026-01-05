@@ -1,11 +1,11 @@
 {
   "name": "@vicary/kysely-duckdb",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "kysely dialect for duckdb",
   "exports": {
-    "types": "./dist/index.d.ts",
     "require": "./dist/index.js",
-    "import": "./dist/index.mjs"
+    "import": "./dist/index.mjs",
+    "types": "./dist/index.d.ts"
   },
   "scripts": {
     "test": "jest",
