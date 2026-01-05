@@ -1,6 +1,6 @@
 {
   "name": "@vicary/kysely-duckdb",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "kysely dialect for duckdb",
   "exports": {
     "types": "./dist/index.d.ts",
