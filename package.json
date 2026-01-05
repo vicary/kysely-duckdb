@@ -1,6 +1,6 @@
 {
   "name": "@vicary/kysely-duckdb",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "kysely dialect for duckdb",
   "exports": {
     "types": "./dist/index.d.ts",
@@ -20,6 +20,9 @@
     "duckdb"
   ],
   "author": "runoshun",
+  "contributors": [
+    "Vicary A. <vicary.archangel@member.mensa.org>"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@duckdb/node-api": "^1.3.4-alpha.27",
